@@ -1,0 +1,11 @@
+App({
+  onLaunch(){
+    console.log("启动了");
+  },
+  onShow(){
+    console.log("显示了");
+  },
+  onError(){
+    console.log(0);
+  }
+})
